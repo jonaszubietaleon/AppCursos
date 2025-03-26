@@ -1,0 +1,10 @@
+vendor/
+config/
+app/
+public/
+vendor/
+config/
+app/
+public/
+.htaccess
+index.php
